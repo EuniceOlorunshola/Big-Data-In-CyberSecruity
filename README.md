@@ -2,8 +2,8 @@
 
 # Description about this project 
 I did this project for my big data programming class as a graduate student 
-It contains a documentation folder that shows my presentation file which goes over the overview of big data programming , includong code and visualization.
-It also contains the code section which was coded in jupyter notebook platform using the language python. 
+It contains a documentation folder that shows my presentation file which goes over the overview of big data programming , including code and visualization.
+It also contains the code section which was coded in jupyter notebook source code editor using the language python. 
 There is also a csv file in the code section which is the dataset we used to show how big data is used in cybersecruity
 
 # Directions to access the code 
