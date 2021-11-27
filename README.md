@@ -8,8 +8,8 @@ There is also a csv file in the code section which is the dataset we used to sho
 
 # Directions to access the code 
 The code was coded in juypter notebook which is the source code editor that I recommended to use to run the code , but other editors can be used as well such as: R studio, visual studio code, Atom, and Pycharm. 
- # Steps to access the code 
- 1.Download as a zip folder 
+ # Steps to access the code: 
+ 1. Download as a zip folder 
  2. Extract the zip folder into your local computer 
  3. Make sure to have the code file and csv file in the same directory 
  4. If using jupyter notebook click the code file once connected to jupyter notebook than run the code. 
